@@ -1,0 +1,28 @@
+{
+  "atlas": {
+    "discount_bps": 0,
+    "tax_bps": 0,
+    "approval_threshold": 100000,
+    "roles": [
+      "buyer",
+      "admin"
+    ]
+  },
+  "beacon": {
+    "discount_bps": 1000,
+    "tax_bps": 0,
+    "approval_threshold": 50000,
+    "roles": [
+      "buyer",
+      "admin"
+    ]
+  },
+  "cedar": {
+    "discount_bps": 0,
+    "tax_bps": 1800,
+    "approval_threshold": 75000,
+    "roles": [
+      "admin"
+    ]
+  }
+}
